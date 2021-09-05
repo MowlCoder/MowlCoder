@@ -11,9 +11,8 @@
 ### Connect with me:
 
 Discord: Mowl#4682
-Telegram: @MowlCod
-
 <br/>
+Telegram: @MowlCod
 
 ### Languages and Tools:
 
