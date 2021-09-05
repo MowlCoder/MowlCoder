@@ -6,7 +6,7 @@
 
 - 🎓 I'm a professional Fullstack Web Developer
 - 🎮 I'm currently trying to switch my path to Game Dev by upgrading my knowledge in C++ and C#
-- 🍀 Also, I want to try modding for Minecraft with Forge
+- 🍀 Also, I' currently trying modding for Minecraft with Forge
 
 ### Connect with me:
 
