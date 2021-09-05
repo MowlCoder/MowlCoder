@@ -2,7 +2,7 @@
 
 ### Hi there, I'm MowlCoder 👋
 
-## I'm a web programmer and want to be game developer!
+## I'm a web programmer and want to be a game developer!
 
 - 🎓 I'm a professional Fullstack Web Developer
 - 🎮 I'm currently trying to switch my path to Game Dev by upgrading my knowledge in C++ and C#
