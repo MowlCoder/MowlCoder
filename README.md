@@ -5,7 +5,7 @@
 ## I'm a web developer and want to be a game developer!
 
 - 🎓 I'm a professional Fullstack Web Developer
-- 🎮 I'm currently trying to switch my path to Game Dev by upgrading my knowledge in C++ and C#
+- 🎮 My hobby is Game Dev so I upgrade my knowledge in C++ and C# in free time
 - 🍀 Also, I' currently trying modding for Minecraft with Forge
 
 ### Connect with me:
